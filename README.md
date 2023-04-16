@@ -7,7 +7,7 @@ Note that to use this workflow you must have [Postbox](https://www.postbox-inc.c
 
 This workflow takes a selected email in Postbox and creates from it a markdown link in the following format:
 
-[Birthday greetings](x-postbox-message://f05a9a04-f297-0234-989a-82e4ddefe4a4%40blahblah.com) from Freda <freda@blahblah.com>
+`[Birthday greetings](x-postbox-message://f05a9a04-f297-0234-989a-82e4ddefe4a4%40blahblah.com) from Freda <freda@blahblah.com>`
 
 That means, of course, that when displaying the markdown you can click on the subject of the message and go directly to the message in Postbox.
 
